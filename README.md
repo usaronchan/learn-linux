@@ -1,2 +1,7 @@
-# learn-linux
-Learn Linux
+# Learn Linux
+
+- Ubuntu
+- Debian
+- Arch Linux
+- Fedora
+- Manjaro
