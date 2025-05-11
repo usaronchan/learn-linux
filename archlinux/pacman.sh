@@ -62,4 +62,8 @@ pacman -Qqen
 pacman -Qqd
 
 
+# Print installed package to txt file
+pacman -Qqen > pkglist.txt
+# To install package via txt file
+pacman -S - < pkglist.txt
 
